@@ -1,0 +1,1 @@
+This Python script showcases machine learning algorithms for wine quality classification. It uses a red wine dataset, processes the data, applies multiple algorithms, and evaluates their performance. The code calculates relevant metrics for each algorithm and visualizes the results through bar plots.
